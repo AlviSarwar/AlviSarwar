@@ -1,4 +1,4 @@
-﻿# Hi, I'm Alvi Sarwar
+# Hi, I'm Alvi Sarwar
 
 CSE undergraduate focused on problem solving and software fundamentals.
 

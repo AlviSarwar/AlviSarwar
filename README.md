@@ -15,3 +15,10 @@ CSE undergraduate focused on problem solving and software fundamentals.
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/mdalvisarwar)
+
+## Featured project
+
+**[PathCompass](https://github.com/AlviSarwar/pathcompass)** is a CGPA and academic planning app built with Django, React and PostgreSQL.
+
+- Live demo: https://pathcompass.vercel.app
+- Source: https://github.com/AlviSarwar/pathcompass
